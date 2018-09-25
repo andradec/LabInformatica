@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="XarlisDarwinModelStoreContainer" CdmEntityContainer="XarlisDarwinEntities">
+    <EntitySetMapping Name="tb_labinformatica">
+      <EntityTypeMapping TypeName="XarlisDarwinModel.tb_labinformatica">
+        <MappingFragment StoreEntitySet="tb_labinformatica">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nome" ColumnName="nome" />
+          <ScalarProperty Name="qtdComputadores" ColumnName="qtdComputadores" />
+          <ScalarProperty Name="qtdAlunos" ColumnName="qtdAlunos" />
+          <ScalarProperty Name="projetor" ColumnName="projetor" />
+          <ScalarProperty Name="software1" ColumnName="software1" />
+          <ScalarProperty Name="software2" ColumnName="software2" />
+          <ScalarProperty Name="software3" ColumnName="software3" />
+          <ScalarProperty Name="SO" ColumnName="SO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

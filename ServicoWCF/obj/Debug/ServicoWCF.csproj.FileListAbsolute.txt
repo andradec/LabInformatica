@@ -1,0 +1,14 @@
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\obj\Debug\ServicoWCF.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\obj\Debug\ServicoWCF.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\ServicoWCF.exe.config
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\ServicoWCF.exe
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\ServicoWCF.pdb
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\Dados.dll
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\Entidade.dll
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\EntityFramework.dll
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\Dados.pdb
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\Dados.dll.config
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\Entidade.pdb
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\bin\Debug\EntityFramework.xml
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\obj\Debug\ServicoWCF.exe
+C:\Users\aluno\source\repos\LabInformatica\ServicoWCF\obj\Debug\ServicoWCF.pdb

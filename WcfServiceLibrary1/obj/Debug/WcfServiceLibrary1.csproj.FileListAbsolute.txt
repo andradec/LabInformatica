@@ -1,0 +1,6 @@
+C:\Users\aluno\source\repos\LabInformatica\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\aluno\source\repos\LabInformatica\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\aluno\source\repos\LabInformatica\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\aluno\source\repos\LabInformatica\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\LabInformatica\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\aluno\source\repos\LabInformatica\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

@@ -1,0 +1,5 @@
+C:\Users\aluno\source\repos\LabInformatica\Entidade\bin\Debug\Entidade.dll
+C:\Users\aluno\source\repos\LabInformatica\Entidade\bin\Debug\Entidade.pdb
+C:\Users\aluno\source\repos\LabInformatica\Entidade\obj\Debug\Entidade.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\LabInformatica\Entidade\obj\Debug\Entidade.dll
+C:\Users\aluno\source\repos\LabInformatica\Entidade\obj\Debug\Entidade.pdb
