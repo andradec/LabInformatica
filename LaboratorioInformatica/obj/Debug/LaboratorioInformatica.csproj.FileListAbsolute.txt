@@ -58,3 +58,8 @@ C:\Users\aluno\source\repos\LabInformatica\LaboratorioInformatica\bin\Microsoft.
 C:\Users\aluno\source\repos\LabInformatica\LaboratorioInformatica\obj\Debug\LaboratorioInformatica.csproj.CoreCompileInputs.cache
 C:\Users\aluno\source\repos\LabInformatica\LaboratorioInformatica\obj\Debug\LaboratorioInformatica.dll
 C:\Users\aluno\source\repos\LabInformatica\LaboratorioInformatica\obj\Debug\LaboratorioInformatica.pdb
+C:\Users\aluno\source\repos\LabInformatica\LaboratorioInformatica\obj\Debug\LaboratorioInformatica.csprojResolveAssemblyReference.cache
+C:\Users\aluno\source\repos\LabInformatica\LaboratorioInformatica\bin\Business.dll
+C:\Users\aluno\source\repos\LabInformatica\LaboratorioInformatica\bin\Entidade.dll
+C:\Users\aluno\source\repos\LabInformatica\LaboratorioInformatica\bin\Business.pdb
+C:\Users\aluno\source\repos\LabInformatica\LaboratorioInformatica\bin\Entidade.pdb

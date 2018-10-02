@@ -16,9 +16,9 @@ namespace Dados
     {
         public int id { get; set; }
         public string nome { get; set; }
-        public Nullable<int> qtdComputadores { get; set; }
-        public Nullable<int> qtdAlunos { get; set; }
-        public Nullable<bool> projetor { get; set; }
+        public int qtdComputadores { get; set; }
+        public int qtdAlunos { get; set; }
+        public bool projetor { get; set; }
         public string software1 { get; set; }
         public string software2 { get; set; }
         public string software3 { get; set; }
