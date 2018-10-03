@@ -1,4 +1,4 @@
-﻿using Entidade;
+﻿
 using System.Collections.Generic;
 using System.Linq;
 
@@ -6,19 +6,18 @@ namespace Dados
 {
     public class LabInformatica
     {
-        public bool Inserir(Laboratorio laboratorio)
+        public void Inserir(tb_laboratorio laboratorio)
         {
             var context = new XarlisDarwinEntities();
-            context.laboratorios.Add(laboratorio);
-            int retorno = context.SaveChanges();
+            context.tb_laboratorio.Add(laboratorio);
+            context.SaveChanges();
 
-            return retorno == 1;
         }
 
-        public List<Laboratorio> Listar()
+        public List<tb_laboratorio> Listar()
         {
             var context = new XarlisDarwinEntities();
-            return context.laboratorios.ToList();
+            return context.tb_laboratorio.ToList();
         }
 
     }

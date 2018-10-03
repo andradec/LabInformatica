@@ -1,4 +1,5 @@
-﻿using Entidade;
+﻿using Dados;
+using Entidade;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,9 +14,9 @@ namespace ServicoWCF
     public interface IService
     {
         [OperationContract]
-        bool Inserir(Laboratorio labInformatica);
+        void Inserir(tb_laboratorio labInformatica);
 
         [OperationContract]
-        List<Laboratorio> Listar();
+        List<tb_laboratorio> Listar();
     }
 }

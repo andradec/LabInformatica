@@ -40,10 +40,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Cadastro.cs" />
+    <Compile Include="CadastroBusiness.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Dados\Dados.csproj">
+      <Project>{4EC8F62A-EE5E-4F2A-8EB8-64769102C12A}</Project>
+      <Name>Dados</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Entidade\Entidade.csproj">
       <Project>{1069ef9a-261e-4783-86d7-c423b49b029e}</Project>
       <Name>Entidade</Name>

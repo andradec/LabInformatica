@@ -11,3 +11,16 @@ C:\Users\aluno\source\repos\LabInformatica\Dados\bin\Debug\EntityFramework.SqlSe
 C:\Users\aluno\source\repos\LabInformatica\Dados\bin\Debug\Entidade.dll
 C:\Users\aluno\source\repos\LabInformatica\Dados\bin\Debug\Entidade.pdb
 C:\Users\aluno\source\repos\LabInformatica\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\LabInformatica\Dados\bin\Debug\Dados.dll.config
+C:\Users\aluno\Documents\LabInformatica\Dados\bin\Debug\Dados.dll
+C:\Users\aluno\Documents\LabInformatica\Dados\bin\Debug\Dados.pdb
+C:\Users\aluno\Documents\LabInformatica\Dados\bin\Debug\Entidade.dll
+C:\Users\aluno\Documents\LabInformatica\Dados\bin\Debug\EntityFramework.dll
+C:\Users\aluno\Documents\LabInformatica\Dados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aluno\Documents\LabInformatica\Dados\bin\Debug\Entidade.pdb
+C:\Users\aluno\Documents\LabInformatica\Dados\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Documents\LabInformatica\Dados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aluno\Documents\LabInformatica\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\LabInformatica\Dados\obj\Debug\Dados.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\LabInformatica\Dados\obj\Debug\Dados.dll
+C:\Users\aluno\Documents\LabInformatica\Dados\obj\Debug\Dados.pdb

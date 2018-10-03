@@ -66,34 +66,22 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Service.edmx</DependentUpon>
     </Compile>
-    <Compile Include="tb_labinformatica.cs">
+    <Compile Include="tb_laboratorio.cs">
       <DependentUpon>Service.tt</DependentUpon>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="App.Config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
     <EntityDeploy Include="Service.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
       <LastGenOutput>Service.Designer.cs</LastGenOutput>
     </EntityDeploy>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.Config" />
-    <None Include="packages.config" />
     <None Include="Service.edmx.diagram">
       <DependentUpon>Service.edmx</DependentUpon>
     </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Service.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>Service.Context.cs</LastGenOutput>
-      <DependentUpon>Service.edmx</DependentUpon>
-    </Content>
-    <Content Include="Service.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>Service.edmx</DependentUpon>
-      <LastGenOutput>Service.cs</LastGenOutput>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
@@ -103,6 +91,18 @@
       <Project>{1069ef9a-261e-4783-86d7-c423b49b029e}</Project>
       <Name>Entidade</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Service.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Service.edmx</DependentUpon>
+      <LastGenOutput>Service.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="Service.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>Service.edmx</DependentUpon>
+      <LastGenOutput>Service.cs</LastGenOutput>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

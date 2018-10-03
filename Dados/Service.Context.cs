@@ -9,10 +9,10 @@
 
 namespace Dados
 {
-    using Entidade;
+    using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
-
+    
     public partial class XarlisDarwinEntities : DbContext
     {
         public XarlisDarwinEntities()
@@ -25,6 +25,6 @@ namespace Dados
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<Laboratorio> laboratorios { get; set; }
+        public virtual DbSet<tb_laboratorio> tb_laboratorio { get; set; }
     }
 }

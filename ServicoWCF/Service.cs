@@ -13,12 +13,12 @@ namespace ServicoWCF
     public class Service : IService
     {
 
-        public bool Inserir(Laboratorio lab)
+        public void Inserir(tb_laboratorio lab)
         {
-            return new LabInformatica().Inserir(lab);
+            new LabInformatica().Inserir(lab);
         }
 
-        public List<Laboratorio> Listar()
+        public List<tb_laboratorio> Listar()
         {
             return new LabInformatica().Listar();
         }
